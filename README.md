@@ -8,3 +8,6 @@ To run this, simply double-click the batch file (or right-click and hit "Open") 
 
 ## Warning
 This file is completely harmless and will not do anything to your computer without your permission. The only risk you have from this is if you download it from somewhere other than the official page, which is currently this GitHub. I am also not responsible for any trouble you get in involving this file.
+
+##Download
+To download this program, feel free to just click the "Clone or Download" button. Or, if you would like to support me, please use [this](http://adf.ly/1hYyr7) link to download instead so I can gain a small amount of ad revenue. Thanks!
